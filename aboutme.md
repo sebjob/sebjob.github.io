@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About me
 subtitle: Elevator Pitch: Why Electronic Textiles? 
 ---
 
@@ -9,4 +9,4 @@ I’m taking this course for two reasons. One of my good friends majoring in com
 
 ### Bored? 
 
-Go play some of my favorite childhood computer games:http://www.nitrome.com/all-games/?page=4.
+Go play some of my favorite childhood computer games:  http://www.nitrome.com/all-games/?page=4.
