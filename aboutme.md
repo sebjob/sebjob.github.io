@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About me
+layout: page /n
+title: About me /n
 subtitle: Elevator Pitch: Why Electronic Textiles? 
 ---
 
