@@ -7,4 +7,4 @@ bigimg: /img/DSC_1520.JPG
  
 Completing this project was strangely fulfilling. Throughout the week, I'd find myself looking forward to the time when I could play some music or TV in the background and just sew for half an hour. One tip I would give myself (and anyone else who is planning on spending considerable time sewing) is to lick the thread when threading a needle. It makes the entire process far easier, and I would have saved plenty of time had I known this little trick when I began this assignment. 
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+![sewing](https://github.com/sebjob/sebjob.github.io/blob/master/img/DSC_1521.JPG)
