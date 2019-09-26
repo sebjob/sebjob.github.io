@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sweather Weather
+title: Sweater Weather
 image: /img/46893036292_5861fe62b3_b.jpg
 ---
 
