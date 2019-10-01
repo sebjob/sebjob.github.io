@@ -7,7 +7,7 @@ image: /img/DSC_1529.JPG
 
 ![sewing](/img/DSC_1525.JPG)
 
-[sewing](/img/SDSC_1526.JPG)
+[sewing](/img/DSC_1526.JPG)
 
 [sewing](/img/DSC_1529.JPG)
 
