@@ -11,6 +11,6 @@ image: /img/DSC_1529.JPG
 
 ![plushy](/img/DSC_1529.JPG)
 
-![plushy](/img/DSC_1527.JPG)
+![plushy](/img/DSC_1534.JPG)
 
 ![plushy](/img/DSC_1528.JPG)
