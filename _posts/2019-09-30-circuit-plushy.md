@@ -9,7 +9,7 @@ image: /img/DSC_1529.JPG
 
 ![plushy](/img/DSC_1526.JPG)
 
-![plushy(/img/DSC_1529.JPG)
+![plushy](/img/DSC_1529.JPG)
 
 ![plushy](/img/DSC_1527.JPG)
 
