@@ -5,12 +5,12 @@ image: /img/DSC_1529.JPG
 ---
 
 
-![sewing](/img/DSC_1525.JPG)
+![plushy](/img/DSC_1525.JPG)
 
-[sewing](/img/DSC_1526.JPG)
+![plushy](/img/DSC_1526.JPG)
 
-[sewing](/img/DSC_1529.JPG)
+![plushy(/img/DSC_1529.JPG)
 
-[sewing](/img/Screenshot 2019-09-25 21.53.14.png)
+![plushy](/img/DSC_1527.JPG)
 
-[sewing](/img/Screenshot 2019-09-25 21.53.14.png)
+![plushy](/img/DSC_1528.JPG)
