@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sweater Weather
+title: Circuit Plushy
 image: /img/46893036292_5861fe62b3_b.jpg
 ---
 
