@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Circuit Plushy
-image: /img/46893036292_5861fe62b3_b.jpg
+image: /img/DSC_1529.JPG
 ---
 
 
