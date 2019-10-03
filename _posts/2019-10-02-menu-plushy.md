@@ -7,4 +7,4 @@ For this assignment, I had to construct my own "stuffed animal" with a circuit i
 
 ![plushy](/img/B7it60hE.png)
 
-![plushy](/img/DSC_1526.JPG)
+![plushy](/img/C3v4n4NA.png)
