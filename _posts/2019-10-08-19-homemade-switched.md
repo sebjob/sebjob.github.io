@@ -4,6 +4,6 @@ title: Homemade Switches
 ---
 
 
-![plushy](/img/B7it60hE.png)
+![plushy](/img/DSC_1539.JPG)
 
 ![plushy](/img/C3v4n4NA.png)
