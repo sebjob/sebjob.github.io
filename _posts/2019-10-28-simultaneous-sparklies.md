@@ -3,7 +3,7 @@ layout: post
 title: Seperate Sparklies X3
 ---
 
-For this assignment, I had to create three different programs on Arduino. Each program had to light up different pins in a sequence. For instance, one program had the pin illuminated for half a second before turning off for four seconds. The program would then repeat itself. This assignemnt was the most difficult to date. It required a lot of researching and skimming resources for helpful code. I would suggest that anyone attempting this assignment to use Arduino's own guide for example coding. I spent far too long attempting to fix my third program, which involved fading lights. As soon as I looked indepth in Arduino's exmaple code I found code that was easily transformed into exactly what I had envisioned. Yet still, my code can be improved. In particular my second program, which involved a light flashing 3X seemed long. I know there must be shortcut for this code. 
+For this assignment, I had to create one program that coudl make three different sets of LED lights turn on and off in 3 different patterns. This assignment was very similiar to the last assignment. While I completed the program, my lights do not all turn on at the same time from the start, as the the program should. For some reason, depending on the order of the sections of code that control their indepedent lights, controls which LED lights will turn on from the very start. I spent a lot of time rearranging my code, trying to fix this problem... but alas, could not. My advice would be to pay close attention to the properities of the blinking lights when writing new sections of code that should leave originial sections untouched. 
 
 ![plushy](/img/DSC_1541.JPG)
 
