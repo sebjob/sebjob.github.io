@@ -3,7 +3,7 @@ layout: post
 title: Ghost Detector
 ---
 
-For this assignment, I had to create a program that randomly generated a color for an LED light. The LED light was controlled by a button, that when pressed would allow the LED light to express a random color. One tip I would give my past self is to focus on state variables as a manner to reset the loop process. Initially, my program would only express one single random color for the LED. while this color was truly random, each every time I would press the button the same color would be expressed. I ended up using a state variable to close the process and allow my program to select a new random color next time through the loop.
+For this assignment, I had to create a program that would turn on all red lights on when a ghost was nearby. The program would know a ghost was nearby if the sensors detected that it was dark and cold enough. One hint I would've given myself would be too play around with the example code we were given to deduce the units and quanitity measured by the sensors.
 
 ![plushy](/img/DSC_1592.JPG)
 
