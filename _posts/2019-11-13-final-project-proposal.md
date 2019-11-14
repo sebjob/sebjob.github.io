@@ -1,0 +1,8 @@
+---
+layout: post
+title: Final Project Proposal
+---
+
+For this assignment, I had to create a program that used a switch to determine two preset functions. If the switch was on, the program would run morse code on the vibe board that spelled out my name, S-e-b j-o-b. If the switch was off, the program would run morse code on the vibe board that spelled out S-O-S. It was a little tricky using functions for the first time, but if I could give a hint to myself, I would remind myself to check my program usings light or serial monitor to ensure that it is running correctly. It was difficult for me to tell if my morse code was working correctly passed off solely the vibrating vibe board. 
+
+![plushy](/img/DSC_1681.JPG)
