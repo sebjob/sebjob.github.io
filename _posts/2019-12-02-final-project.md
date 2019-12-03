@@ -21,15 +21,11 @@ Circuitry:
 ![plushy](/img/Screenshot 2019-12-02 22.33.47.png)
 
 prototype:
+![plushy](/img/Screenshot 2019-12-02 22.11.59.png)
+
 ![plushy](/img/Screenshot 2019-12-02 22.11.01.png)
 
 ![plushy](/img/Screenshot 2019-12-02 22.32.35.png)
-
-![plushy](/img/Screenshot 2019-12-02 22.11.59.png)
-
-![plushy](/img/Screenshot 2019-12-02 22.12.10.png)
-
-![plushy](/img/Screenshot 2019-12-02 22.12.27.png)
 
 ![plushy](/img/Screenshot 2019-12-02 22.38.30.png)
 
