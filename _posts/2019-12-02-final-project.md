@@ -23,7 +23,7 @@ Materials List:
 
 3 past tips to myself:
 
-1. while I like the overall design of the costume, I wish I had reinforced the tan fabric that is used to line the perimeter of Gaston's face. While it probably is more comfortable with less material, it feels a little too weak for my liking. I would have loved to do this, however, I only last minute realized that this would be an awesome idea. I wish I had cut out two pieces of the tan fabric, rather than one. Sewing the two together would have made the costume truly sturdy. 
+1. While I like the overall design of the costume, I wish I had reinforced the tan fabric that is used to line the perimeter of Gaston's face. While it probably is more comfortable with less material, it feels a little too weak for my liking. I would have loved to do this, however, I only last minute realized that this would be an awesome idea. I wish I had cut out two pieces of the tan fabric, rather than one. Sewing the two together would have made the costume truly sturdy. 
 
 2. Circuitry is complicated. Take your time with it! I had to restart many times because I snapped my thread or got it stuck tied in a nasty knot. It's better to plan your thread placement ahead of time and taking the circuitry slowly, as restarting is quite frustrating and ultimately far more time consuming.
 
@@ -48,5 +48,3 @@ Finished!
 ![plushy](/img/Screenshot 2019-12-03 08.43.34.png)
 
 ![plushy](/img/Screenshot 2019-12-03 08.43.49.png)
-
-
