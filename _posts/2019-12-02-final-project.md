@@ -41,4 +41,10 @@ Work in progress photos:
 
 ![plushy](/img/Screenshot 2019-12-02 22.38.53.png)
 
+Finished!
+
+![plushy](/img/Screenshot 2019-12-03 08.43.34.png)
+
+![plushy](/img/Screenshot 2019-12-03 08.43.34.png)
+
 
