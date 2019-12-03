@@ -7,7 +7,7 @@ For this assignment i had to create a program that every second would turn on or
 
 ![plushy](/img/Screenshot 2019-12-02 21.36.18.png)
 
-![plushy](/img/Screenshot 2019-12-02 21.37.31.png)
+![plushy](/img/Screenshot 2019-12-02 22.33.47.png)
 
 ![plushy](/img/Screenshot 2019-12-02 22.11.01.png)
 
