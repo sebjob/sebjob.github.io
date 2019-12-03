@@ -27,9 +27,10 @@ Circuitry:
 
 ![plushy](/img/Screenshot 2019-12-02 22.33.47.png)
 
-prototype:
+Prototype:
 ![plushy](/img/Screenshot 2019-12-02 22.11.59.png)
 
+Work in progress photos:
 ![plushy](/img/Screenshot 2019-12-02 22.11.01.png)
 
 ![plushy](/img/Screenshot 2019-12-02 22.32.35.png)
