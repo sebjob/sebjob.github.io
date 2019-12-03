@@ -37,5 +37,4 @@ prototype:
 
 ![plushy](/img/Screenshot 2019-12-02 22.38.53.png)
 
-![plushy](/img/Screenshot 2019-12-02 22.12.27.png)
 
