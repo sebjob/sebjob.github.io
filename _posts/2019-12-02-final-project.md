@@ -45,8 +45,6 @@ Work in progress photos:
 
 Finished!
 
-<video src="IMG_0180.MOV" width="320" height="200" controls preload></video>
-
 ![plushy](/img/Screenshot 2019-12-03 08.43.34.png)
 
 ![plushy](/img/Screenshot 2019-12-03 08.43.49.png)
